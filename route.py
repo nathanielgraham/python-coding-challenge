@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Telnyx coding challenge
+# Python coding challenge
 
 # Takes vlans.csv and requests.csv as input and produces output.csv that
 # specifies which requests reserved which VLAN_IDs on which port and device.
